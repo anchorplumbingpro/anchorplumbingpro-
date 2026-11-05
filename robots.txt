@@ -1,0 +1,12 @@
+# Anchor Plumbing Pro - crawler access policy
+# https://anchorplumbingpro.com/
+# Public pages and assets are accessible to search engines and AI crawlers.
+User-agent: *
+Allow: /
+
+# If the website uses WordPress, enable the following rules only if applicable:
+# Disallow: /wp-admin/
+# Allow: /wp-admin/admin-ajax.php
+
+# Use the sitemap URL actually deployed on the live website.
+Sitemap: https://anchorplumbingpro.com/sitemap.xml

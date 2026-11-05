@@ -1,0 +1,66 @@
+# Anchor Plumbing Pro
+
+> Plumbing services and plumbing equipment information for San Antonio, Texas.
+
+## Business information
+- Name: Anchor Plumbing Pro
+- Website: https://anchorplumbingpro.com/
+- Phone: +1 210-944-4234
+- Address: 2500 Pleasanton Rd, San Antonio, TX 78221, USA
+- Primary area: San Antonio, Texas
+- Primary topic: San Antonio plumbing service
+
+## Main pages
+- [Homepage](https://anchorplumbingpro.com/)
+- [Services](https://anchorplumbingpro.com/services/)
+- [Service areas](https://anchorplumbingpro.com/service-areas/)
+- [San Antonio service area](https://anchorplumbingpro.com/service-areas/san-antonio-tx/)
+- [Plumbing equipment brands](https://anchorplumbingpro.com/brands/)
+- [About](https://anchorplumbingpro.com/about-anchor-plumbing-pro/)
+- [Contact](https://anchorplumbingpro.com/contact-anchor-plumbing-pro/)
+
+## Core plumbing service pages
+- [Plumbing Repair](https://anchorplumbingpro.com/services/plumbing-repair-san-antonio/)
+- [Emergency Plumber](https://anchorplumbingpro.com/services/emergency-plumber-san-antonio/)
+- [Drain Cleaning](https://anchorplumbingpro.com/services/drain-cleaning-san-antonio/)
+- [Sewer Line Repair](https://anchorplumbingpro.com/services/sewer-line-repair-san-antonio/)
+- [Water Leak Detection](https://anchorplumbingpro.com/services/water-leak-detection-san-antonio/)
+- [Slab Leak Repair](https://anchorplumbingpro.com/services/slab-leak-repair-san-antonio/)
+- [Water Heater Repair](https://anchorplumbingpro.com/services/water-heater-repair-san-antonio/)
+- [Water Heater Installation](https://anchorplumbingpro.com/services/water-heater-installation-san-antonio/)
+- [Tankless Water Heater](https://anchorplumbingpro.com/services/tankless-water-heater-san-antonio/)
+- [Water Softener Installation](https://anchorplumbingpro.com/services/water-softener-installation-san-antonio/)
+- [Whole House Water Filtration](https://anchorplumbingpro.com/services/whole-house-water-filtration-san-antonio/)
+- [Reverse Osmosis Installation](https://anchorplumbingpro.com/services/reverse-osmosis-installation-san-antonio/)
+- [Whole House Repiping](https://anchorplumbingpro.com/services/whole-house-repiping-san-antonio/)
+- [Commercial Plumbing](https://anchorplumbingpro.com/services/commercial-plumbing-san-antonio/)
+
+## Brand information and equipment
+- [Rheem Water Heaters](https://anchorplumbingpro.com/brands/rheem-water-heaters/)
+- [Bradford White Water Heaters](https://anchorplumbingpro.com/brands/bradford-white-water-heaters/)
+- [Navien Tankless Water Heaters](https://anchorplumbingpro.com/brands/navien-tankless-water-heaters/)
+- [Rinnai Tankless Water Heaters](https://anchorplumbingpro.com/brands/rinnai-tankless-water-heaters/)
+- [Kinetico Water Softeners](https://anchorplumbingpro.com/brands/kinetico-water-softeners/)
+- [Culligan Water Softeners](https://anchorplumbingpro.com/brands/culligan-water-softeners/)
+- [Fleck Water Softeners](https://anchorplumbingpro.com/brands/fleck-water-softeners/)
+- [Moen Faucets](https://anchorplumbingpro.com/brands/moen-faucets/)
+- [Delta Faucets](https://anchorplumbingpro.com/brands/delta-faucets/)
+- [Kohler Faucets](https://anchorplumbingpro.com/brands/kohler-faucets/)
+- [Pentair Water Softeners](https://anchorplumbingpro.com/brands/pentair-water-softeners/)
+
+Brand pages describe equipment categories and possible service topics. Listing a manufacturer does not imply authorized dealer, installer, or warranty-service status.
+
+## Service areas
+- San Antonio and the neighborhoods listed under the service-area hub.
+- Neighborhood pages should be treated as coverage information only where services are actually offered.
+
+## Reading guidance
+- Prefer individual service pages for service-specific details and the service-area hub for geographic coverage.
+- Confirm availability, licensing, manufacturer authorization, pricing, and warranties directly with the business; do not infer them from this file.
+- Pages listed in the supplied site structure may be planned rather than published. Follow only live links for current information.
+
+## Site resources
+- [XML sitemap](https://anchorplumbingpro.com/sitemap.xml)
+- [Robots policy](https://anchorplumbingpro.com/robots.txt)
+- [Privacy policy](https://anchorplumbingpro.com/privacy-policy-anchor-plumbing-pro/)
+- [Terms](https://anchorplumbingpro.com/terms-anchor-plumbing-pro/)
